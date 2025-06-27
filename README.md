@@ -55,7 +55,8 @@ Missing value counts for each column.
 A correlation matrix heatmap of key indicators (e.g., Birth Rate, Death Rate, GDP, Employment).
 Printed population trend analysis and projections for various countries.
 Model evaluation metrics (RMSE, R2) for different regression algorithms.
-Screenshot Example (Illustrative of Correlation Heatmap)
+### Screenshot Example (Illustrative of Correlation Heatmap)
+![Correalation HeatMap0(https://github.com/JOHNWESLEY4063/population_trends/blob/main/Screenshot%202025-06-27%20161633.png?raw=true)
 
 🤝 How to Contribute or Extend
 Feel free to fork this repository and contribute!
@@ -70,5 +71,5 @@ Enhance error handling: Add more robust error handling for data loading and proc
 
 Output:
 
-### Screenshot Example (Illustrative of Correlation Heatmap)
+### Screenshot Example (Illustrative of OUTPUT)
 ![Correlation Heatmap](https://github.com/JOHNWESLEY4063/population_trends/blob/main/Screenshot%202025-05-01%20102832.png?raw=true)

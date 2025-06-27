@@ -70,3 +70,5 @@ Enhance error handling: Add more robust error handling for data loading and proc
 
 Output:
 
+### Screenshot Example (Illustrative of Correlation Heatmap)
+![Correlation Heatmap](https://github.com/JOHNWESLEY4063/population_trends/blob/main/Screenshot%202025-05-01%20102832.png?raw=true)

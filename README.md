@@ -56,7 +56,7 @@ A correlation matrix heatmap of key indicators (e.g., Birth Rate, Death Rate, GD
 Printed population trend analysis and projections for various countries.
 Model evaluation metrics (RMSE, R2) for different regression algorithms.
 ### Screenshot Example (Illustrative of Correlation Heatmap)
-![Correalation HeatMap0(https://github.com/JOHNWESLEY4063/population_trends/blob/main/Screenshot%202025-06-27%20161633.png?raw=true)
+![Correalation HeatMap](https://github.com/JOHNWESLEY4063/population_trends/blob/main/Screenshot%202025-06-27%20161633.png?raw=true)
 
 🤝 How to Contribute or Extend
 Feel free to fork this repository and contribute!
